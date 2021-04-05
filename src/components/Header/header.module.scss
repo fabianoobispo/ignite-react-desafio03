@@ -1,16 +1,4 @@
-.container {
-  height: 5rem;
-  margin-top: 5rem;
-  max-width: 1120px;
-}
-
-.headerContent {
-  margin: 0 auto;
-
-  display: flex;
-  align-items: center;
-
-  a {
-    display: inline;
-  }
+.headerContainer {
+  max-width: 720px;
+  margin: 5rem auto 0;
 }
